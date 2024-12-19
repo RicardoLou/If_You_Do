@@ -11,11 +11,3 @@ public:
 private:
 	
 };
-
-MyClass::MyClass()
-{
-}
-
-MyClass::~MyClass()
-{
-}
