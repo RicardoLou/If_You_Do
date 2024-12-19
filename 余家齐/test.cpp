@@ -9,7 +9,5 @@ int main() {
         cin >> a[i];
     }
     int ans = 0;
-    for (int i = 0; i < n; i ++) {
-        cout << a[i] << " ";
-    }
+    cout << ans;
 }
