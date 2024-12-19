@@ -9,5 +9,6 @@ int main() {
         cin >> a[i];
     }
     int ans = 0;
-    // change
+    // c
+
 }
