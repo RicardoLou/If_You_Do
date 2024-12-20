@@ -1,6 +1,5 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
-
 int main()
 {
     int n,f,i=0;
@@ -30,7 +29,9 @@ int main()
             case 8: cout << "ba" ;break;
             case 9: cout << "jiu" ;break;
         }
-        cout << " ";
+        if(i!=0){
+            cout << " ";
+        }
         i--;
     }
     cout << endl;
