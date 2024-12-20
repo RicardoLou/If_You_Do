@@ -1,0 +1,1 @@
+print("I'm gonna WIN!\n" * 3, end="")
