@@ -3,8 +3,7 @@ using namespace std;
 
 int main() {
     int n;
-    char c;
-    cin >> n >> c;
+    cin >> n;
     int i, j, s = 1,x,z;
     for (i = 3, j = 1; s <= n; i += 2) {
         s += i * 2;
@@ -18,7 +17,7 @@ int main() {
         }
         x++;
         for (int k = 1; k <= i * 2 - 1; k++) {
-            cout << c;
+            cout << "*";
         }
         cout << endl;
     }
@@ -27,7 +26,7 @@ int main() {
             cout << " ";
         }
         for (int k = 1; k <= i * 2 - 1; k++) {
-            cout << c;
+            cout << "*";
         }
         cout << endl;
     }
