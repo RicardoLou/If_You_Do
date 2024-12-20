@@ -6,42 +6,32 @@
 // 输出格式：
 // 按古风格式排版给定的字符串，每列N个字符（除了最后一列可能不足N个）。
 #include <iostream>
-#include <vector>
 #include <string>
-
 using namespace std;
 
 int main() {
     int N;
     string text;
-    
-    // 输入每列字符数
+
+    // 输入每列字符数和文本字符串
     cin >> N;
-    cin.ignore();  // 忽略掉接下来的换行符
-    
-    // 输入文本字符串
+    cin.ignore();  // 忽略换行符
     getline(cin, text);
 
-    int len = text.length();  // 获取字符串的长度
-    int rows = (len + N - 1) / N;  // 计算行数，向上取整
-    
-    // 创建一个二维数组，表示排版后的字符
-    vector<vector<char>> grid(rows, vector<char>(N, ' '));  // 默认为空格填充
+    int len = text.length();       // 字符串的长度
+    int rows = (len + N - 1) / N;  // 向上取整计算行数
 
-    // 将字符串按照列优先顺序填入grid
-    for (int i = 0; i < len; ++i) {
-        int row = i / N;  // 当前字符所在行
-        int col = i % N;  // 当前字符所在列
-        grid[row][col] = text[i];  // 填充字符
-    }
-
-    // 按古风排版输出（竖着打印）
-    for (int col = N - 1; col >= 0; --col) {
-        for (int row = 0; row < rows; ++row) {
-            if (grid[row][col] != ' ') {  // 只有在该位置有字符时才输出
-                cout << grid[row][col];
+    // 输出字符，列优先，从下到上
+    for (int col = 0; col < N; ++col) {  // 从第一列到最后一列
+        for (int row = rows - 1; row >= 0; --row) {  // 从最后一行到第一行
+            int idx = row * N + col;  // 计算索引
+            if (idx < len) {          // 确保索引在范围内
+                cout << text[idx];
+            } else {
+                cout << ' ';          // 补空格
             }
         }
+        cout << endl;  // 每列换行
     }
 
     return 0;
