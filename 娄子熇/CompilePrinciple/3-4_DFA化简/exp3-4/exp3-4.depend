@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1653361514 source:e:\complier\实验\已测试的实验\3-4_dfa化简\exp3-4\main.cpp
+	"mindfa.h"
+
+1652168486 e:\complier\实验\已测试的实验\3-4_dfa化简\exp3-4\mindfa.h
+	"nfa2dfa.h"
+
+1652081534 e:\complier\实验\已测试的实验\3-4_dfa化简\exp3-4\nfa2dfa.h
+	"regex2nfa.h"
+
+1652169062 e:\complier\实验\已测试的实验\3-4_dfa化简\exp3-4\regex2nfa.h
+	<iostream>
+	<cstring>
+	<string>
+	<stack>
+	<set>
+	<queue>
+
