@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1650963946 source:e:\complier\实验\已测试的实验\3-1_简单的词法分析器设计实现\exp3_1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+
+1650963946 source:\\vmware-host\shared folders\complier\实验\编译原理实验指导书及参考代码\编译原理实验指导书及参考代码\3-1_简单的词法分析器设计实现\exp3_1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+
+1733198358 source:c:\users\administrator\downloads\exp3_1\main.cpp
+	<bits/stdc++.h>
+
