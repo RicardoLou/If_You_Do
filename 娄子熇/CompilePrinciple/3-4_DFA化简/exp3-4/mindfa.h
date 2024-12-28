@@ -54,6 +54,7 @@ DFA minDFA(DFA d) {
     bool cutFlag = true;  /*上一次是否产生新的划分的标志*/
     while (cutFlag) {  /*只要上一次产生新的划分就继续循环*/
         int cutCount = 0;  /*需要产生新的划分的数量*/
+        // 优化
         for (i = 0; i < minDfaStateNum; i++) {  /*遍历每个划分集合*/
 
             // 修改部分：使用unordered_map优化缓冲区管理
