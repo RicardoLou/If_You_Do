@@ -73,10 +73,10 @@ int main()
 {
     // 设定 NFA 文件路径
     string nfaFilePath = "nfa.dot";
-   //string str = "(a|b*)c*";
+    //string str = "(a|b*)c*";
     // string str = "(1|2)*";
     string str = "(a|b)*";
-     // string str = "a(a|b)*b";
+    // string str = "a(a|b)*b";
     NFA nfa;
 
     ifstream infile1(nfaFilePath, ios::binary);
