@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1652152806 source:e:\complier\实验\已测试的实验\3-3_词法分析之nfa转换为dfa\exp3-3\main.cpp
+	"nfa2dfa.h"
+
+1652081534 e:\complier\实验\已测试的实验\3-3_词法分析之nfa转换为dfa\exp3-3\nfa2dfa.h
+	"regex2nfa.h"
+
+1652169623 e:\complier\实验\已测试的实验\3-3_词法分析之nfa转换为dfa\exp3-3\regex2nfa.h
+	<iostream>
+	<cstring>
+	<string>
+	<stack>
+	<set>
+	<queue>
+

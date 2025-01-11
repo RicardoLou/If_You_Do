@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1651913260 source:e:\complier\实验\已测试的实验\3-2_词法分析之正规表达式转换为nfa\exp3_2\main.cpp
+	"regex2nfa.h"
+
+1651913278 e:\complier\实验\已测试的实验\3-2_词法分析之正规表达式转换为nfa\exp3_2\regex2nfa.h
+	<iostream>
+	<cstring>
+	<string>
+	<stack>
+	<set>
+	<queue>
+
+1653361644 source:c:\users\administrator\downloads\exp3_2\main.cpp
+	"regex2nfa.h"
+
+1672888686 c:\users\administrator\downloads\exp3_2\regex2nfa.h
+	<iostream>
+	<cstring>
+	<string>
+	<stack>
+	<set>
+	<queue>
+
