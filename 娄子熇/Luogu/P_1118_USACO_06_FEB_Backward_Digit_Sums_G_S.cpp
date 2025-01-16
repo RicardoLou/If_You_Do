@@ -31,7 +31,6 @@ void dfs(int u) {
             vis[i] = 1;
             path[u] = i;
 
-            // 提前计算部分和
             int partial_sum = 0;
             for (int j = 0; j <= u; j++) {
                 partial_sum += path[j];
