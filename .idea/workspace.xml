@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b301012e-74ac-41de-bdb1-3655ccc6b78e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/张宇诚/张宇诚.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/朱蕊雅/PTA/L003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/朱蕊雅/PTA/L005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/朱蕊雅/PTA/L006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/朱蕊雅/朱蕊雅.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/If_You_Do.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/If_You_Do.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱蕊雅/PTA/PTA008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱蕊雅/PTA/PTA009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱蕊雅/PTA/PTA011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱蕊雅/PTA/PTA015.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱蕊雅/PTA/PTA016.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱蕊雅/PTA/PTA017.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱蕊雅/PTA/Pta013.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱蕊雅/PTA/ptaL007.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +37,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.pintia.codeday2" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.L006">
     <configuration name="L003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -97,6 +101,8 @@
       <option name="presentableId" value="Default" />
       <updated>1736659390715</updated>
       <workItem from="1736659393468" duration="13087000" />
+      <workItem from="1736835084253" duration="112000" />
+      <workItem from="1737279055626" duration="274000" />
     </task>
     <servers />
   </component>
@@ -113,5 +119,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
