@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b301012e-74ac-41de-bdb1-3655ccc6b78e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/朱蕊雅/PTA/PTA008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/朱蕊雅/PTA/PTA009.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/朱蕊雅/PTA/PTA011.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/朱蕊雅/PTA/PTA015.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/朱蕊雅/PTA/PTA016.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/朱蕊雅/PTA/PTA017.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/朱蕊雅/PTA/Pta013.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/朱蕊雅/PTA/ptaL007.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱蕊雅/PTA/PTA018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱蕊雅/PTA/PTA023.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱蕊雅/PTA/PTA025.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱蕊雅/PTA/PTA027.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱蕊雅/PTA/PTA028.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/朱蕊雅/PTA/PTA030.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +25,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2rW0Beqc42Le4dWWGzUXIRETD7w" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -103,6 +103,7 @@
       <workItem from="1736659393468" duration="13087000" />
       <workItem from="1736835084253" duration="112000" />
       <workItem from="1737279055626" duration="274000" />
+      <workItem from="1737962407272" duration="74000" />
     </task>
     <servers />
   </component>
