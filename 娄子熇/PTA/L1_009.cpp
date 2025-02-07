@@ -11,7 +11,7 @@ int main() {
     cin >> n;
     string s;
     getline(cin, s);
-    int index = 0;
+    int index = 0; 
     for(int i = 0; i < s.length(); i ++) {
         if (s[i] == ' ')
             index ++;
