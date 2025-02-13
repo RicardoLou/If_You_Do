@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-const int N = 110;
+const int N = 110; 
 int n;
 vector<vector<int>> num(N, vector<int>(N));
 int GCD(int x, int y) {
@@ -12,7 +12,7 @@ int main() {
     string s;
     getline(cin, s);
     int index = 0; 
-    for(int i = 0; i < s.length(); i ++) {
+    for(int i = 0; i < s.length(); i ++) { 
         if (s[i] == ' ')
             index ++;
         if (s[i] == '-')

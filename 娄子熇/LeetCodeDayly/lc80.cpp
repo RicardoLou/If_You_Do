@@ -13,4 +13,4 @@ public:
         }
         return min(index, n);
     }
-};
+}; 
