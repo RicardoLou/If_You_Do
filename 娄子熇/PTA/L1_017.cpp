@@ -3,7 +3,7 @@
 #include <iomanip>  // 用于格式化输出
 
 using namespace std;
-
+ 
 int main() {
     string s;
     getline(cin, s);  // 读取输入字符串
